@@ -1,11 +1,13 @@
 # youtube_download
 通过网页解析批量下载工具
 # YouTube4k无后台下载器 v1.0
+注意%%%%%%仅支持4k 以上视频 请在科学情况下在网
 
 一款极简、纯绿色、无任何后台驻留进程的 **YouTube 视频下载工具**（Windows 单文件 exe）  
 支持最高 4K / 8K 画质 + 完整音频 + 字幕下载，启动即用，关闭即走，不占内存、不弹广告、不收集数据。
 
-![程序主界面示例](# YouTube4k无后台下载器 v1.0
+![程序主界<img width="785" height="614" alt="主页面" src="https://github.com/user-attachments/assets/abacf67f-a872-4b38-a3a9-dd5e5846d458" />
+面示例](# YouTube4k无后台下载器 v1.0
 
 一款极简、纯绿色、无任何后台驻留进程的 **YouTube 视频下载工具**（Windows 单文件 exe）  
 支持最高 4K / 8K 画质 + 完整音频 + 字幕下载，启动即用，关闭即走，不占内存、不弹广告、不收集数据。
